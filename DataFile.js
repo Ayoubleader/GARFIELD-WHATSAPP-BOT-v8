@@ -19,47 +19,47 @@ global.symb = '█' // 👈  Enter Any ▁ ▂ █ ░ ▘ □ ▣
 global.symb2 = '▎ █' // 👈 Enter Any ▬▓▌▎■
 global.symb3 = '▬' // 👈 Enter Any ▅ ▂ ▁ ▊
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
-global.notice = ` *Hi 🥰 I m*
-*ＮＯＩＺ Ξ*
-*I am 16 years old developer...*
-*From Sri Lanka 🇱🇰*
-*I am a Learning.*
+global.notice = ` *Hi I m*
+*LEADER Ξ*
+*I am 27 years old developer...*
+*From MOROCCO / GERMANY*
+*I am a.*
 *Not more..*
-*Also I am Student*
-*Follow My Facebook - https://www.facebook.com/zenoixnoize*`  // 👈 Enter Your details and Social Media Links and Anything
-global.owner =  ['+94711502119'] //👈  Enter Your number
-global.premium =  ['+94711502119'] //👈  Enter Your number
-global.ownernomer = '+94711502119' //👈  Enter Your number
-global.ownername = 'ZENOI' //👈 Enter Your name
-global.botname = 'ＧＡＲＦＩＥＬＤ ＢＯＴ' //👈 Enter Your Bot name
-global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 𝖦𝖺𝗋𝖿𝗂𝖾𝗅𝖽 𝖡𝗈𝗍' //👈 Enter Your Name
-global.ig = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
-global.region = 'India, South India, Kerala' // 👈 You Can change this your choice
-global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
+*Also I am coach*
+*send message , my whatsapp - https://wa.me/+212690943590?text=بــــاش♕ناجوطـــيك💜*`  // 👈 Enter Your details and Social Media Links and Anything
+global.owner =  ['+212690943590'] //👈  Enter Your number
+global.premium =  ['https://wa.me/+212690943590?text=بــــاش♕ناجوطـــيك'] //👈  Enter Your number
+global.ownernomer = '+212690943590' //👈  Enter Your number
+global.ownername = 'AYOUB-PITER' //👈 Enter Your name
+global.botname = 'LEADER ＢＯＴ' //👈 Enter Your Bot name
+global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 ᏞᎬᎯ ᎠᎬᎡ 𝖡𝗈𝗍' //👈 Enter Your Name
+global.ig = 'https://github.com/xnoize/LEADER-WHATSAPP-BOT-v10' // 👈 You Can change this your choice
+global.region = 'germsny , munich-Zepnerstach' // 👈 You Can change this your choice
+global.sc = 'https://github.com/noize/LEADER-WHATSAPP-BOT-v10'
 global.fbt = 'Follw Us ℹ️' // 👈 Enter (Subscribe/Follow/Like now)
-global.myweb = 'https://www.facebook.com/garfieldbots/'// 👈 Enter your Social media link to follow now button
-global.welcome = '*Welcome To The Group 🦋*' // 👈 You Can change this your choice
-global.bye = '*Bye bye Mother fucker 🐼*' // 👈 You Can change this your choice
-global.packname = 'GARFIELD-BOTv8'  // 👈 You Can change this your choice 
-global.author = 'NOIZE DEVELOPMENT' // 👈 You Can change this your choice 
+global.myweb = 'https://wa.me/+212690943590?text=بــــاش♕ناجوطـــيك/'// 👈 Enter your Social media link to follow now button
+global.welcome = '*مرحبا بك في المجموعة 🦋*' // 👈 You Can change this your choice
+global.bye = '*مع السلامة ، نلتقي في الجنة 🐼*' // 👈 You Can change this your choice
+global.packname = 'LEADER-BOTv10'  // 👈 You Can change this your choice 
+global.author = 'AYOUB/LEADER DEVELOPMENT' // 👈 You Can change this your choice 
 global.sessionName = 'session' // 👈 You Can change this your choice
-global.prefa = ['','!','.','🛰️','⚓','🍎'] // 👈 You Can change this your choice
+global.prefa = ['','!','.','🌹','🤍','⚽'] // 👈 You Can change this your choice
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
 global.thumb =  'https://i.ibb.co/Jz0mMnC/Pics-Art-22-06-03-01-01-46-876.png' 
 global.spoty = 'https://i.postimg.cc/HW2YbN1b/Pics-Art-22-08-09-16-12-14-489.png'
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
 global.sp = '⭔'
 global.mess = {
-    success: 'Done 🦋', // 👈 You Can change this your choice
-    admin: 'This Feature Is Only For Admin!', // 👈 You Can change this your choice
-    botAdmin: 'Bot Must Be Admin First!', // 👈 You Can change this your choice
-    owner: 'This Feature Is Only For Owner!', // 👈 You Can change this your choice
-    group: 'Feature Used Only For Groups!', // 👈 You Can change this your choice
-    private: 'Features Used Only For Private Chat!', // 👈 You Can change this your choice
-    bot: 'This Feature Is Only For Bot', // 👈 You Can change this your choice
-    wait: '```Please Wait...```', // 👈 You Can change this your choice
-    error: 'Error! Maybe Api Key Is Expired🤔!', // 👈 You Can change this your choice
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    success: 'تم 💗', // 👈 You Can change this your choice
+    admin: ' الميزة للمشرف فقط!', // 👈 You Can change this your choice
+    botAdmin: 'على البوت أن يكون مشرفا في المجموعة أولا!', // 👈 You Can change this your choice
+    owner: 'هذه الميزة لمالك البوت فقط!', // 👈 You Can change this your choice
+    group: 'هذه الميزة تشتغل فقط في المجموعات!', // 👈 You Can change this your choice
+    private: 'هذه الميزة تشتغل في المحادثاث الخاصة فقط!', // 👈 You Can change this your choice
+    bot: 'هذه الميزة مخصصة للبوت فقط', // 👈 You Can change this your choice
+    wait: '```تسنا شوية 😂...```', // 👈 You Can change this your choice
+    error: 'هناك خطأ🤔!', // 👈 You Can change this your choice
+    endLimit: 'باراكا ، راك كثرتي 😂',
 } // 👈 You Can change this your choice
 /// Do Not Change 👇 
 global.limitAwal = "99999999999999999"
@@ -102,14 +102,14 @@ fs.watchFile(file, () => {
 // New Menu Ui
 /*
 ▬
-▎ Hi  Ｚ Ξ ＮＯＩ 👋 
-▎ ＧＡＲＦＩＥＬＤ ＢＯＴ
+▎ Hi   👋 
+▎ 𝑳𝑬𝑨𝑫𝑬𝑹•⚽💗ꦿ ＢＯＴ
 ▎ █ 𝗦𝗽𝗲𝗲𝗱 : 0.00119 miliseconds
 ▎ █ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : 9 hours, 58 minutes, 23 seconds
-▎ █ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ＧＡＲＦＩＥＬＤ ＢＯＴ 
+▎ █ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ᏞᎬᎯ ᎠᎬᎡ ＢＯＴ 
 ▎ █ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : ZENOI
-▎ █ 𝗢𝘄𝗻𝗲𝗿 𝗡𝘂𝗺𝗯𝗲𝗿 : +94711502119
-▎ █ 𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : ZENOI
+▎ █ 𝗢𝘄𝗻𝗲𝗿 𝗡𝘂𝗺𝗯𝗲𝗿 : https://wa.me/+212690943590?text=بــــاش♕ناجوطـــيك💜
+▎ █ 𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : AYOUB
 ▎ █ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : linux
 ▎ █ 𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿 : 11
    Ｍｅｎｕ Ｃｏｍｍａｎｄｓ🌀
@@ -123,11 +123,11 @@ fs.watchFile(file, () => {
    *▓  Databasemenu*
    *▓  Gamemenu*
    
-▎ ️ＧＡＲＦＩＥＬＤ ＢＯＴ  Created by ZENOI  🪁
-▎ ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝖦Λ𝖱𝖥𝖨Ξ𝖫𝖣 𝖡𝖮Т v8.6 and 
-▎ 𝖭Ξ𝖴𝖱Λ𝖫 ΛＩ v1.00             
+▎ ️LEADER ＢＯＴ  Created by AYOUB 🪁
+▎ ᴘᴏᴡᴇʀᴇᴅ ʙʏ LEADER 𝖡𝖮Т v8.6 and 
+▎ BAVARI4EVEEER Ｉ v1.00             
 ⭕►▁▁▁▁▁▁▁▁▁▁▁▁▁▁
-   ▎ ＧＡＲＦＩＥＬＤ ＢＯＴ
+   ▎ ᏞᎬᎯ ᎠᎬᎡ ＢＯＴ
    ▁▁▁▁▁▁▁▁▁▁▁▁▁▁
  ▁▁▁▁▁▁▁▁▁▁▁▁▁▁
 ▎ 
